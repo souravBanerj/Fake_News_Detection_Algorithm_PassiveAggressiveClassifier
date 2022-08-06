@@ -1,3 +1,12 @@
+Table of contents
+Importing data & exploration
+Data cleaning / Prepping
+Feature extraction
+Model training
+Further exploration
+Conclusion
+
+
 # Fake_News_Detection_Algorithm_PassiveAggressiveClassifier
 The model I've chosen to use is the Passive-Aggressive (PA) Classifier (see original paper here). In essence, the PA classifier is an algorithm that only updates its weights ("aggressive" action) when it encounters examples for which its predictions are wrong, but otherwise remains unchanged ("passive" action).
 Before getting into the actual feature extraction, I want to add some explanations to the method that was used here and why. This may be the most text-heavy section, but I believe it's also crucial to be able to reason the use of your choice of methodology, so please bear with me! But if you so wish, you could also just skip to the "TL;DR" below.
