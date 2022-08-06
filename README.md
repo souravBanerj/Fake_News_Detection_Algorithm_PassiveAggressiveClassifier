@@ -1,4 +1,4 @@
-Table of contents
+Table of contents<br>
 Importing data & exploration
 Data cleaning / Prepping
 Feature extraction
